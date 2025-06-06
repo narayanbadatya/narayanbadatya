@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hy!, I'm Narayan Badatya, and I'm a Frontend Developer 👋🏼:
-🛜 currently working on my own [webpage]()<br>I’m a creative web developer focused on building clean, responsive websites.<br> I also create engaging videos and compelling graphic designs, blending functionality with creativity.<br>🎬 just started out with my graphic design on social media<i>arrav design</i>
+🛜 currently working on my own [webpage]()<br>I’m a creative web developer focused on building clean, responsive websites.<br> I also create engaging videos and compelling graphic designs, blending functionality with creativity.<br>🎬 just started out with my graphic design on social media
 
 
 # 💻 Tech Stack:
